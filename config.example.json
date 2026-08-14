@@ -1,0 +1,12 @@
+{
+  "model_name": "gemini-2.5-flash",
+  "max_repair_attempts": 3,
+  "default_bot_type": "playwright",
+  "sandbox_timeout_seconds": 15,
+  "supported_frameworks": [
+    "playwright",
+    "pyautogui",
+    "api",
+    "telegram"
+  ]
+}
